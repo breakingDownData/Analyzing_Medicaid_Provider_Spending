@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Logs
+*.log
+
+
+# macOS
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Large / local data directories
+2026_dhs_code_list_addendum_12_01_2025/
+Home_Healthcare_Spending_Trends/Datasets/
+Stock Market Analysis/
+
+
+# for right now
+main.py
