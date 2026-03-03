@@ -17,6 +17,9 @@
 - Provide production-level code ready to be fit into data pipelines
 - Highlight QA opportunities intra-notebook in order to ensure no holes in data processing
 
+# Visualizations & Exhibits
+- Please look for 'visualizations.txt' under folder 'DataOutputs' to find links to corresponding analytical notebooks
+
 # Jumping off points:
 - What does the home health spending look like from 2018 - 2024?
   - is it as bad as people think?
